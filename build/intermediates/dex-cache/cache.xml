@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\liupei\FmodDemo\app\libs\fmod.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0e2039fc3b3fdd06164296d3738f77b1834c38d0">
+        <dex dex="C:\Users\liupei\FmodDemo\app\build\intermediates\pre-dexed\debug\fmod_ce0a4de1dd6c03e4a192ad1e6b8f6746bb6b358b.jar" />
+    </item>
+
+</items>

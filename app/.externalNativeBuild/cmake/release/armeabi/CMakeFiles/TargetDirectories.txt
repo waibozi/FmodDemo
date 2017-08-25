@@ -1,0 +1,3 @@
+C:/Users/liupei/FmodDemo/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/voicer.dir
+C:/Users/liupei/FmodDemo/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/edit_cache.dir
+C:/Users/liupei/FmodDemo/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/rebuild_cache.dir
